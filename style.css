@@ -1,0 +1,30 @@
+body
+{
+	background-color: #3E3E5C;
+	font-family: Roboto;
+}
+
+#naglowek
+{
+	width: 1800px;
+	height: 120px;
+	float: bottom;
+	font-size: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+}
+
+.opcja
+{
+	width: 250px;
+	height: 70px;
+	float: left;
+	margin-left: 52px;
+	margin-right: 52px;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border: solid;
+
+}
